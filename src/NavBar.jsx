@@ -61,7 +61,7 @@ function ResponsiveAppBar() {
             }}
           >
         <Button variant="contained" component={RouterLink}  to="/" >
-          LOGO
+          LOGOS
         </Button>
           </Typography>
 
@@ -121,7 +121,7 @@ function ResponsiveAppBar() {
             }}
           >
          <Button variant="text" component={RouterLink}  to="/" >
-          LOGO
+          LOGOS
         </Button>
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
